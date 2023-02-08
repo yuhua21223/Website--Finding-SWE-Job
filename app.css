@@ -1,0 +1,85 @@
+/* This section sets the default font and font size for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+/* This section sets the text alignment for the header */
+header h1 {
+    text-align: center;
+}
+
+/* This section sets the background color and padding for the main container */
+main {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+/* This section sets the text alignment for the sections within the main container */
+main h2,
+main h3 {
+    text-align: center;
+}
+
+/* This section sets the background color and padding for the job listings */
+.job-listing {
+    background-color: #ffffff;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+/* This section sets the text alignment and color for the company name in the job listings */
+.job-listing .company-name {
+    text-align: center;
+    color: #0077c9;
+}
+
+/* This section sets the text alignment and color for the job title in the job listings */
+.job-listing .job-title {
+    text-align: left;
+    color: #333;
+}
+
+/* This section sets the text alignment and color for the job description in the job listings */
+.job-listing .job-description {
+    text-align: left;
+    color: #555;
+}
+
+/* This section sets the text alignment and color for the location in the job listings */
+.job-listing .location {
+    text-align: right;
+    color: #777;
+}
+
+/* This section sets the background color and padding for the search form */
+form {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* This section sets the color and font size for the search input fields */
+input[type="text"] {
+    color: #555;
+    font-size: 14px;
+    padding: 10px;
+    width: 50%;
+    margin: 10px 0;
+}
+
+/* This section sets the background color, border, and color for the search button */
+input[type="submit"] {
+    background-color: #0077c9;
+    border: 0;
+    color: #ffffff;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* This section sets the text alignment and color for the copyright section */
+footer {
+    text-align: center;
+    color: #777;
+    padding: 20px;
+}

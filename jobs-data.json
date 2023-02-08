@@ -1,0 +1,27 @@
+{
+    // Array of job objects
+    "jobs": [
+        {
+            // Job Title
+            "title": "Full Stack Developer",
+            // Company Name
+            "company": "Google",
+            // Company Location
+            "location": "Mountain View, CA",
+            // Job Description
+            "description": "We are seeking a highly skilled Full Stack Developer to join our team. The ideal candidate will have experience with both front-end and back-end technologies. Requirements include a strong knowledge of JavaScript, HTML, CSS, and a familiarity with modern frameworks such as React and Node.js."
+        },
+        {
+            "title": "Data Scientist",
+            "company": "Amazon",
+            "location": "Seattle, WA",
+            "description": "Amazon is looking for a Data Scientist to join our team. The ideal candidate will have experience working with large datasets and a strong background in statistics. Proficiency in programming languages such as Python, R, and SQL is a must. The ability to communicate findings and insights to both technical and non-technical stakeholders is also important."
+        },
+        {
+            "title": "Front-End Developer",
+            "company": "Facebook",
+            "location": "Menlo Park, CA",
+            "description": "Facebook is seeking a talented Front-End Developer to join our team. The ideal candidate will have experience building responsive and dynamic web applications using HTML, CSS, and JavaScript. Familiarity with modern front-end frameworks such as React and Angular is a plus."
+        }
+    ]
+}
