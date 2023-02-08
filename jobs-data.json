@@ -1,14 +1,14 @@
 {
-    // Array of job objects
+    
     "jobs": [
         {
-            // Job Title
+            
             "title": "Full Stack Developer",
-            // Company Name
+            
             "company": "Google",
-            // Company Location
+            
             "location": "Mountain View, CA",
-            // Job Description
+            
             "description": "We are seeking a highly skilled Full Stack Developer to join our team. The ideal candidate will have experience with both front-end and back-end technologies. Requirements include a strong knowledge of JavaScript, HTML, CSS, and a familiarity with modern frameworks such as React and Node.js."
         },
         {
